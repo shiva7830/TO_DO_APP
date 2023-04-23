@@ -5,8 +5,6 @@ Returns JSON data using standard REST requests. Can be used to support MEAN/MERN
 
 This is just the server-side - no client-side GUI is included.
 
-## Links
-- [Server Source](https://github.com/profcase/todo-server-jwt)
 
 ## Requirements
 
