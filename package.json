@@ -1,0 +1,11 @@
+{
+  "name": "todo-server-jwt-master",
+  "version": "1.0.0",
+  "description": "> Simple server app with JWT authentication that uses MongoDB, Node.js, and the Express web framework to provide a todo API. Returns JSON data using standard REST requests. Can be used to support MEAN/MERN/MEVN full-stack apps.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
